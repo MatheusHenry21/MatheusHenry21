@@ -34,14 +34,18 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou em constante
 
 ## 📊 Estatísticas
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatheusHenry21&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox_light" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusHenry21&layout=compact&theme=gruvbox_light" height="150"/>
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=MatheusHenry21&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=MatheusHenry21&theme=radical)
+
 </div>
 
-<br/>
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MatheusHenry21&radius=16&theme=gruvbox&area=true" height="300"/>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MatheusHenry21&layout=compact&theme=radical)
+
+</div>
 
 ---
 
