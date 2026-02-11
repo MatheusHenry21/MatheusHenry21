@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre mim
 
-Sou **Backend Developer com foco em Python**, com experiência no desenvolvimento de **APIs REST** utilizando **FastAPI** e **Django**.  
+Sou **Backend Developer com foco em Python e Java**, com experiência no desenvolvimento de **APIs REST** utilizando **FastAPI**, **Django** e **Java (POO)**.  
 Também possuo conhecimentos em **HTML5, CSS3 e JavaScript**, o que me permite compreender e integrar melhor o back-end com interfaces front-end.
 Atuo na construção de aplicações backend integradas a **bancos de dados relacionais**, seguindo boas práticas, organização de código e foco em soluções reais.  
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou em constante evolução técnica.
@@ -15,6 +15,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou em constante
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
